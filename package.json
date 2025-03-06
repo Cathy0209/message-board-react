@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://Cathy0209.github.io/message-board-react",
-  
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -14,7 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "prop": "^0.1.1",
+    "prop": "^0.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "serve": "^14.2.4",
@@ -30,6 +29,7 @@
     "eslint-plugin-react": "^7.37.4",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.19",
+    "gh-pages": "^6.3.0",
     "globals": "^15.15.0",
     "vite": "^6.2.0"
   }
